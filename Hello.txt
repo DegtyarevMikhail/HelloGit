@@ -1,1 +1,2 @@
 Hello every one!
+One string more.
