@@ -1,2 +1,1 @@
-Hello every one!
-One string more.
+Новая строка
