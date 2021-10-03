@@ -4,3 +4,4 @@ New string2
 New string3
 'Remove'
 After new string
+The plan to add
