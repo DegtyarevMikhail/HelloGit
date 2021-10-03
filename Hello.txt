@@ -1,2 +1,5 @@
 
 New string
+New string2
+New string3
+'Remove'
